@@ -1,0 +1,48 @@
+hw1_website.cs
+
+
+
+h2,h1 {
+    text-align: center;
+}
+.jumbotron {
+    background-color: goldenrod;
+}
+
+.container1 {
+    background-color: goldenrod;
+}
+
+li {
+    font-size: larger;
+}
+
+
+a {
+    color: black ;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-indent: 50px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.btn {
+    border-color: black;
+    margin-left: 500px;
+}
+
+p {
+    font-size: larger;
+}
+
+
